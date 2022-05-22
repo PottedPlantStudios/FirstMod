@@ -1,0 +1,13 @@
+## This a basic event, use it as a base for other events. Though you probably will want to remove the annotation spam first.
+superexample.1337 = { # Use comments (like this one!) to put the event name here, this way other scripters can find the event you are working on without knowing the ID.
+	type = character_event
+	title = "A Modding Example Worthy of Kings" # Protip: you can use strings and later replace it with loc refs later
+	desc = birth.1003.b # For Sublime users: there is a "find in files" feature that is excellent for digging through loc
+
+	theme = mental_break
+	left_portrait = root
+
+	option = { # Use comments to state what the option says or does (eg "No, I denounce you heretic!" or "Engage in duel against child"), much like with event titles, it's good practice.
+		name = stewardship_domain_special.1424.a
+	}
+}
