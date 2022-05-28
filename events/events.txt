@@ -30,9 +30,12 @@ superexample.1337 = { # Use comments (like this one!) to put the event name here
 	}
 	option = {
 		name = Test_event.0001.c
+		set_culture = culture:roman
 	}
 	option = {
 		name = Test_event.0001.d
+		add_stress = major_stress_impact_gain
+		add_dread = medium_dread_gain
 	}
 	option = {
 		name = Test_event.0002.e
