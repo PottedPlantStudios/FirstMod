@@ -1,8 +1,8 @@
-## This a basic event, use it as a base for other events. Though you probably will want to remove the annotation spam first.
+﻿## This a basic event, use it as a base for other events. Though you probably will want to remove the annotation spam first.
 superexample.1337 = { # Use comments (like this one!) to put the event name here, this way other scripters can find the event you are working on without knowing the ID.
 	type = character_event
-	title = Test_event.0001t:0
-	desc = Test_event.0001.desc:0 # For Sublime users: there is a "find in files" feature that is excellent for digging through loc
+	title = test_event.0001.t
+	desc = test_event.0001.desc # For Sublime users: there is a "find in files" feature that is excellent for digging through loc
 
 	theme = mental_break
 	left_portrait = {
@@ -23,19 +23,19 @@ superexample.1337 = { # Use comments (like this one!) to put the event name here
 		character = ROOT
 	}
 	option = { # Use comments to state what the option says or does (eg "No, I denounce you heretic!" or "Engage in duel against child"), much like with event titles, it's good practice.
-		name = Test_event.0001.a:0
+		name = Test_event.0001.a
 	}
 	option = {
-		name = Test_event.0001.b:0
+		name = Test_event.0001.b
 	}
 	option = {
-		name = Test_event.0001.c:0
+		name = Test_event.0001.c
 	}
 	option = {
-		name = Test_event.0001.d:0
+		name = Test_event.0001.d
 	}
 	option = {
-		name = Test_event.0001.e:0
-		add_gold 100
+		name = Test_event.0002.e
+		add_gold = 200
 	}
 }

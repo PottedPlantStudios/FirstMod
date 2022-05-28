@@ -1,6 +1,7 @@
+﻿l_english:
 # This is a test custom event
-Test_event.0001.t:0 "Vet du hva det beste er?"
-Test_event.0001.desc:0 "Leketøy fra BR"
+test_event.0001.t:0 "Vet du hva det beste er?"
+test_event.0001.desc:0 "Leketøy fra BR"
 Test_event.0001.a:0 "Det kan ikke være sant!"
 Test_event.0001.b:0 "Er det mulig?! Er BR best?"
 Test_event.0001.c:0 "Ingen sjanse. Alle vet at Toysrus er best"
