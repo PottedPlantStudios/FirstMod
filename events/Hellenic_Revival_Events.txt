@@ -2,8 +2,8 @@
 namespace = hellenic_restoration
 hellenic_restoration.0001 = {
 	type = character_event
-	title = Hellenic_restoration_event.0001.t
-	desc = Hellenic_restoration_event.0001.desc
+	title = hellenic_restoration.0001.t
+	desc = hellenic_restoration.0001.desc
 	
 	theme = mental_break
 	left_portrait = {
@@ -11,9 +11,9 @@ hellenic_restoration.0001 = {
 		animation = scheme
 	}
 		option = {
-			name = Hellenic_restoration.0001.a
+			name = hellenic_restoration.0001.a
 		}
 		option = {
-			name = Hellenic_restoration.0001.b
+			name = hellenic_restoration.0001.b
 		}
 	}

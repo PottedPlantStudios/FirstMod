@@ -9,9 +9,9 @@ Test_event.0001.d:0 "Som om jeg bryr meg. Jeg er 23 år for faen"
 Test_event.0002.e:0 "Bare gi meg penger pls"
 
 ## Revive Hellenism Event ##
-Hellenic_restoration.0001.t:0 "Revive Hellenism"
-Hellenic_restoration.0001.desc:0 "Yes, revive pls"
-Hellenic_restoration.0001.a:0 "Sounds good"
-Hellenic_restoration.0001.b:0 "no thanks"
-Hellenic_restoration.0001.c:0
-Hellenic_restoration.0001.d:0
+hellenic_restoration.0001.t:0 "Revive Hellenism"
+hellenic_restoration.0001.desc:0 "Yes, revive pls"
+hellenic_restoration.0001.a:0 "Sounds good"
+hellenic_restoration.0001.b:0 "no thanks"
+hellenic_restoration.0001.c:0
+hellenic_restoration.0001.d:0
