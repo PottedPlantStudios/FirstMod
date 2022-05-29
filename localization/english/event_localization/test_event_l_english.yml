@@ -10,8 +10,8 @@ Test_event.0002.e:0 "Bare gi meg penger pls"
 
 ## Revive Hellenism Event ##
 hellenic_restoration.0001.t:0 "Revive Hellenism"
-hellenic_restoration.0001.desc:0 "Yes, revive pls"
-hellenic_restoration.0001.a:0 "Sounds good"
-hellenic_restoration.0001.b:0 "no thanks"
-hellenic_restoration.0001.c:0
-hellenic_restoration.0001.d:0
+hellenic_restoration.0001.desc:0 "Could it be possible that, by embracing the barbaric Eastern religion of Christ, Emperor Theodosius weakened the Empire, and that, conversely, I might be able to strenghten it by reintroducing the worship of the old gods? \n\nMy decision could just as easily doom the Empire a second time as I attempt to save it..."
+hellenic_restoration.0001.a:0 "I must embrace the traditions of old!"
+hellenic_restoration.0001.b:0 "No, Emperor Theodosius saved the Empire."
+hellenic_restoration.0001.c:0 ""
+hellenic_restoration.0001.d:0 ""

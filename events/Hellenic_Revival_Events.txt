@@ -8,7 +8,7 @@ hellenic_restoration.0001 = {
 	theme = mental_break
 	left_portrait = {
 		character = ROOT
-		animation = scheme
+		animation = worry
 	}
 		option = {
 			name = hellenic_restoration.0001.a
