@@ -12,6 +12,8 @@ hellenic_restoration.0001 = {
 	}
 		option = {
 			name = hellenic_restoration.0001.a
+			set_culture = culture:roman
+			set_character_faith = faith:hellenic_pagan
 		}
 		option = {
 			name = hellenic_restoration.0001.b
